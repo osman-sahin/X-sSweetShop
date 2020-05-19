@@ -9,6 +9,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+/*.carousel-inner > .carousel-item {
+    max-height: 400px;
+    object-fit: cover;
+}*/
 
 .slide-image {
     width: 100%;
